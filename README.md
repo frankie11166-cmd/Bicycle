@@ -10,9 +10,6 @@ Power BI
 
 City of Sydney data hub **https://data.cityofsydney.nsw.gov.au/**
 
-[Bicycle_count_surveys.csv](attachment:d90ba702-58c2-4588-8b52-e12ba26ad6cd:Bicycle_count_surveys.csv)
-
-[Bicycle_count_sites..csv](attachment:9379b536-8efc-4bfe-9bdb-cc530e2652d0:Bicycle_count_sites..csv)
 
 ### 📌  **Key Deliverables**
 
