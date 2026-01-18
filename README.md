@@ -28,3 +28,8 @@ I built a multi-page Power BI dashboard analyzing bike usage by time, location, 
 ### 🧨**What value i have delivered:**
 
 I delivered insights that supported city planners in understanding seasonal trends, peak commuting hours, and top-performing sites, enabling data-driven decisions for transportation planning and infrastructure improvements.
+
+
+### PowerBI dashboards
+
+https://app.powerbi.com/links/5jMRFXDYv0?ctid=ee903dcb-2b77-4da5-be02-c45235783dad&pbi_source=linkShare
